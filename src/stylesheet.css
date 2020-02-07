@@ -5,11 +5,11 @@ body {
 }
 
 .header-logo {
-    margin: 12px 0px 12px 0px
+    margin: 12px 0px 12px 0px;
 }
 
 .main-nav {
-    background-color: #006bb6
+    background-color: #006bb6;
 }
 
 .main-content-header{
@@ -40,7 +40,7 @@ footer {
     text-align: center;
 }
 
-.footertext {
+.footer-text {
     display: block;
     text-align: center;
     position: relative;
@@ -48,7 +48,7 @@ footer {
     font-size: 15px;
 }
 
-.turkulogo-footer {
+.turku-logo-footer {
     display: block;
     position: absolute;
     margin-top: 20px;
@@ -68,13 +68,13 @@ footer a:hover {
     color: white;
 }
 
-.Footer-header {
+.footer-header {
     font-weight: bolder;
     font-size: 30px;
 }
 
 @media (max-width:600px) {
-    .turkulogo-footer {
+    .turku-logo-footer {
         position: relative;
         margin: 20px 0px -30px 30%;
     }
